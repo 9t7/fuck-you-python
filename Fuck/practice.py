@@ -1,0 +1,7 @@
+print(-10)
+print(3.14)
+print(5*(6/3))
+print("씨발")
+print('엿')
+print('곱하기'*10)
+print('곱빼기 '*5)
